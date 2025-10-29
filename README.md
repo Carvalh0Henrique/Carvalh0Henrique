@@ -18,6 +18,10 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" height="30" width="40" src="https://camo.githubusercontent.com/89065c686c9de43df679e0e844e1f27a921c783deefbe92bc91a48db8b9d0473/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f737072696e672f737072696e672d6f726967696e616c2e737667">
   <img align="center"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center"height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png">
+  <img align="center"height="30" width="40" src="https://www.svgrepo.com/show/331370/docker.svg">
+  <img align="center"height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png">
+  <img align="center"height="30" width="40" src="https://www.svgrepo.com/show/303251/mysql-logo.svg">
 </div>
 
 ##
