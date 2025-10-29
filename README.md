@@ -4,17 +4,10 @@
 💼 Estagiando no desenvolvimento de sistemas pela 4R Tecnologia  
 💡 Engajado por desenvolvimento, produtividade e tecnologia  
 
-<p align="left">
-  <a href="[https://github.com/anuraghazra/github-readme-stats](https://linktr.ee/fabriciolondero)">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=carvalh0henrique&rank_icon=github" />
-  </a>
-</p>
+| <div align="center"> GitHub Stats</div> | <div align="center"> Most Used Languages</div> |
+|:--:|:--:|
+| <img height="180" src="https://github-readme-stats.vercel.app/api?username=carvalh0henrique&rank_icon=github&show_icons=true" /> | <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalh0henrique&layout=compact&langs_count=6" /> |
 
-<p align="left">
-  <a href="[https://github.com/anuraghazra/convoychat](https://linktr.ee/fabriciolondero)">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalh0henrique&hide_progress=true" />
-  </a>
-</p>
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
